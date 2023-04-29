@@ -1,0 +1,14 @@
+Name: John Smith
+Email: jw@email.com
+Birthday: 2023-03-30
+Score: 2 Out of 10
+a
+b
+b
+c
+d
+b
+a
+c
+b
+c
